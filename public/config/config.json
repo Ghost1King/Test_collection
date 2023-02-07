@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3057802a0D1D21C5F458aE88021dbab1943057d6",
+  "SCAN_LINK": "https://goerli.etherscan.io/token/0x3057802a0d1d21c5f458ae88021dbab1943057d6",
+  "NETWORK": {
+    "NAME": "ETH",
+    "SYMBOL": "GoerliETH",
+    "ID": 5
+  },
+  "NFT_NAME": "Disruptor",
+  "SYMBOL": "DRT",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/disruptor",
+  "SHOW_BACKGROUND": true
+}
